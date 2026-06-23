@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-06-23T13:50:46Z",
+  "count": 4,
+  "articles": [
+    {
+      "id": "ps_001",
+      "path": "articles/ps_001.md",
+      "title": "Decoding the new data protection rules",
+      "excerpt": "What the latest digital data rules mean for you, in plain language.",
+      "category": "policy",
+      "type": "daily",
+      "symbol": "lock.shield.fill",
+      "publishedAt": "2026-06-23T09:00:00Z",
+      "readMinutes": 1
+    },
+    {
+      "id": "ps_002",
+      "path": "articles/ps_002.md",
+      "title": "The GST overhaul, explained simply",
+      "excerpt": "A look at the proposed changes to India's tax slabs and who they affect.",
+      "category": "economy",
+      "type": "daily",
+      "symbol": "indianrupeesign.circle.fill",
+      "publishedAt": "2026-06-22T09:00:00Z",
+      "readMinutes": 1
+    },
+    {
+      "id": "ps_011",
+      "path": "articles/ps_011.md",
+      "title": "Inside India's bond market for beginners",
+      "excerpt": "A longer read on how government and corporate bonds actually work.",
+      "category": "capitalMarkets",
+      "type": "markets",
+      "symbol": "chart.xyaxis.line",
+      "publishedAt": "2026-06-18T09:00:00Z",
+      "readMinutes": 1
+    },
+    {
+      "id": "ps_016",
+      "path": "articles/ps_016.md",
+      "title": "India's fiscal deficit, mapped",
+      "excerpt": "Where the government's money comes from and where it goes.",
+      "category": "economy",
+      "type": "infographic",
+      "symbol": "chart.pie.fill",
+      "publishedAt": "2026-06-16T09:00:00Z",
+      "readMinutes": 1
+    }
+  ]
+}
