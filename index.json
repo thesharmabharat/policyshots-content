@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T03:29:58Z",
-  "count": 4,
+  "generatedAt": "2026-06-25T03:30:50Z",
+  "count": 5,
   "categories": [
     "business",
     "capitalMarkets",
@@ -14,6 +14,17 @@
       "category": "policy",
       "path": "articles/policy/ps_001.md",
       "title": "Decoding the new data protection rules",
+      "excerpt": "What the latest digital data rules mean for you, in plain language.",
+      "type": "daily",
+      "symbol": "lock.shield.fill",
+      "publishedAt": "2026-06-23T09:00:00Z",
+      "readMinutes": 1
+    },
+    {
+      "id": "ps_007",
+      "category": "policy",
+      "path": "articles/policy/ps_007.md",
+      "title": "Decoding the new Billu protection rules",
       "excerpt": "What the latest digital data rules mean for you, in plain language.",
       "type": "daily",
       "symbol": "lock.shield.fill",
