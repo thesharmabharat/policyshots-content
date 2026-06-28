@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T03:30:50Z",
+  "generatedAt": "2026-06-28T12:18:42Z",
   "count": 5,
   "categories": [
     "business",
@@ -46,7 +46,7 @@
       "id": "ps_011",
       "category": "capitalMarkets",
       "path": "articles/capitalMarkets/ps_011.md",
-      "title": "Inside India's bond market for beginners",
+      "title": "Inside India's Billu bond market for beginners",
       "excerpt": "A longer read on how government and corporate bonds actually work.",
       "type": "markets",
       "symbol": "chart.xyaxis.line",
